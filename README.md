@@ -9,7 +9,7 @@ Après un nettoyage des données, nous effectuons une analyse exploratoire pour 
 3. [Structure du projet](#structure-du-projet)
 4. [Installation & Usage](#installation--usage)
 5. [Modèles entraînés](#modèles-entraînés)
-6. [ERésultats](#résultats)
+6. [Résultats](#résultats)
 7. [Licence](#licence)
 
 ## Données
