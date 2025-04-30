@@ -59,18 +59,28 @@ Ridge
 XGBoost:
 
 R2 su train:  0.997716535183886
+
 R2 su validazione:  0.9477611954988485
+
 MSE su train:  0.2059863733046369
+
 MSE su validazione:  4.760513726614255
+
 Average expected loss (MSE): 5.716
+
 Average bias: 4.923
+
 Average variance: 0.792
+
 
 Ridge:
 
 R2 su train:  0.8466435314381352
+
 R2 su validazione:  0.8340007664358708
+
 MSE su train:  13.83395205345207
+
 MSE su validazione:  15.12748305662438
 
 ## Licence
