@@ -57,6 +57,7 @@ Ridge
 
 ## Enjeux & résultats
 XGBoost:
+----------------------------
 
 
 R2 su train:  0.997716535183886
@@ -75,6 +76,7 @@ Average variance: 0.792
 
 
 Ridge:
+--------------------------
 
 
 R2 su train:  0.8466435314381352
